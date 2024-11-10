@@ -1,0 +1,14 @@
+userName: XXXXXXXXXXXX
+accessKey: XXXXXXXXXXX
+framework: testng
+app: ./WikipediaSample.apk
+platforms:
+  - platformName: android
+    deviceName: Samsung Galaxy S22 Ultra
+    platformVersion: 12.0
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
+
+
+
